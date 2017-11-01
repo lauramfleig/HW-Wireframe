@@ -1,0 +1,122 @@
+
+
+
+body {
+	background-color: #777;
+	width: 960px;
+}
+
+h1 {
+	font-size: 16px;
+	text-align: center;
+	font-weight: normal;
+	font-family: "Arial", Helvetica, sans-serif;
+	background-color: #ebebeb;
+	padding: 15px;
+	height: 70px;
+	margin-right: auto;
+	margin-left: auto;
+	color: #777;
+}
+
+
+.boxClass {
+	background-color: #ebebeb;
+	color: #777;
+	width: 95%;
+	margin-top: 12px;
+	margin-left: 12px;
+	margin-right: 12px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+.nav {
+	background-color: #ebebeb;
+	text-align: center;
+	padding: 15px;
+	height: 70px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "Arial", Helvetica, sans-serif;
+	font size: 18px;
+	color: #777;
+}
+
+
+.section-box {
+	background-color: #ebebeb;
+	text-align: center;
+	margin-top: 10px;
+	width: 495px;
+	height: 205px;
+	font-family: "Arial", Helvetica, sans-serif;
+	font size: 18px;
+	color: #777;
+	padding: 25px;
+	float: left;
+}
+
+/*Need to figure out how to make width closer to section-box*/
+.article-box {
+	background-color: #777;
+	color: GhostWhite;
+	margin-top: 15px;
+	padding-top: 10px;
+	height: 175px;
+}
+
+.heading-box {
+	background-color: #ebebeb;
+	color: #777;
+	width: 95%;
+	margin-top: 15px;
+	margin-left: 12px;
+	margin-right: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+
+}
+
+.aside {
+	background-color: #ebebeb;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 495px;
+	height: 205px;
+	font-family: "Arial", Helvetica, sans-serif;
+	font size: 18px;
+	color: #777;
+	padding: 25px;
+	float: right;
+
+}
+
+.footer {
+	background-color: #ebebeb;
+	text-align: center;
+	padding: 15px;
+	height: 70px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "Arial", Helvetica, sans-serif;
+	font size: 18px;
+	color: #777;
+
+}
+
+.flex-boxes {
+	display: flex;
+}
+
+
+
+
+
+
+
+
